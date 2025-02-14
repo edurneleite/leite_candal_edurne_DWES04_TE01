@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "pais": "Japón",
+        "mes": "Abril",
+        "cupo": 20,
+        "descripcion": "Explora la belleza de los cerezos en flor en Tokio y Kioto."
+    },
+    {
+        "id": 2,
+        "pais": "España",
+        "mes": "Junio",
+        "cupo": 15,
+        "descripcion": "Descubre la arquitectura modernista de Barcelona y la historia de Madrid."
+    },
+    {
+        "id": 3,
+        "pais": "Italia",
+        "mes": "Septiembre",
+        "cupo": 12,
+        "descripcion": "Vive la historia y la gastronomía de Roma, Florencia y Venecia."
+    },
+    {
+        "id": 4,
+        "pais": "Australia",
+        "mes": "Diciembre",
+        "cupo": 25,
+        "descripcion": "Disfruta del verano australiano en Sídney y la Gran Barrera de Coral."
+    },
+    {
+        "id": 5,
+        "pais": "Brasil",
+        "mes": "Febrero",
+        "cupo": 30,
+        "descripcion": "Participa en el famoso Carnaval de Río y disfruta de las playas de Copacabana."
+    },
+    {
+        "id": 6,
+        "pais": "Tailandia",
+        "mes": "Noviembre",
+        "cupo": 18,
+        "descripcion": "Explora los templos de Bangkok y relájate en las playas de Phuket."
+    },
+    {
+        "id": 7,
+        "pais": "Estados Unidos",
+        "mes": "Julio",
+        "cupo": 20,
+        "descripcion": "Experimenta la vibrante vida de Nueva York y la belleza natural del Gran Cañón."
+    }
+]
